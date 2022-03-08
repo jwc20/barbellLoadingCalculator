@@ -4,5 +4,5 @@ Barbell loading calculator without collars.
 ![Image](https://i.imgur.com/d0bTGa6.png)
 
 ### TODO:
-- Fix the change plates bottom part resizing issue.
+- Fix the change plates bottom part resizing issue (see above image).
 - Add competition collar option.
